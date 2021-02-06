@@ -8,6 +8,11 @@
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
 
+
+## mihash notes
+netlyfy usen npm run build command so it will build this into dist directory then it will run from dist directory.
+but cli's - npm start command directly start running the files ftom dist directory without trying to build anything
+
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-resume/master/LICENSE)
